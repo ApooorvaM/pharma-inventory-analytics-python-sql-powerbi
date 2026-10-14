@@ -22,7 +22,7 @@ An end-to-end analytics project exploring inventory imbalances, demand variabili
 
 ## Dashboard Pages
 1. **Inventory Health:** product count, sales, inventory, inventory value, stock-status distribution and trend.
-   <img width="374" height="207" alt="Screenshot 2026-10-14 171342" src="https://github.com/user-attachments/assets/a854e8b9-e380-44a9-83fa-912796b3255c" />
+<img width="374" height="207" alt="Screenshot 2026-10-14 171342" src="https://github.com/user-attachments/assets/a854e8b9-e380-44a9-83fa-912796b3255c" />
 
 3. **High-Risk Products:** understocked/high-risk/overstocked KPIs, holding cost, inventory-gap and demand-risk visuals.
 <img width="372" height="212" alt="Screenshot 2026-10-14 171406" src="https://github.com/user-attachments/assets/373ef514-3833-4d71-b2fd-2a171fba3a1b" />
@@ -54,8 +54,6 @@ Stock-status thresholds and measure definitions should be documented and validat
 - Investigate overstocked products with high holding costs or potential shelf-life exposure.
 - Investigate large actual-versus-planned sales deviations without assuming causation.
 - Monitor inventory and financial KPIs regularly and measure results after changes.
-
-```
 
 ## Skills Demonstrated
 Python, pandas, NumPy, EDA, data cleaning, feature engineering, SQL Server, CTEs, joins, window functions, Power Query, DAX, KPI reporting, data visualization, variance analysis, and business recommendations.
